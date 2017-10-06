@@ -154,3 +154,8 @@ If the verification process produces any errors messages, fix your configuration
 
 .. _Monitoring_Windows_Using_WMI.pdf: http://assets.nagios.com/downloads/nagiosxi/docs/Monitoring_Windows_Using_WMI.pdf
 .. _Check WMI Plus website: http://assets.nagios.com/
+
+
+Another Easy method ! :
+shinken install windows
+(via http://shinken.io/package/windows )
